@@ -1,2 +1,3 @@
 *.html linguist-vendored
-components/*/* linguist-vendored
+components/* linguist-vendored
+components/ssd1306/* linguist-vendored
