@@ -1,2 +1,2 @@
 *.html linguist-vendored
-components/* linguist-vendored
+components/*/* linguist-vendored
